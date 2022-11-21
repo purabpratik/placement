@@ -1,4 +1,3 @@
-package DSA;
 
 public class minInRotatedArray {
     public static void main(String[] args) {
@@ -9,7 +8,7 @@ public class minInRotatedArray {
     static int findMin(int arr[]) {
 
         // complete the function here
-        
+
         int low = 0;
         int high = arr.length - 1;
 

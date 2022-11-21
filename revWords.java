@@ -1,4 +1,3 @@
-package DSA;
 
 public class revWords {
     public static void main(String[] args) {

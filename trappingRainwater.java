@@ -1,4 +1,3 @@
-package DSA;
 
 public class trappingRainwater {
     public static void main(String[] args) {

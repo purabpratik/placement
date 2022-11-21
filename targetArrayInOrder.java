@@ -1,4 +1,3 @@
-package DSA;
 
 import java.util.Arrays;
 
@@ -12,9 +11,9 @@ public class targetArrayInOrder {
     }
 
     public static int[] createTargetArray(int[] nums, int[] index) {
-        
+
         // code here
-        
+
         int target[] = new int[nums.length];
         for (int i = 0; i < index.length; i++) {
 

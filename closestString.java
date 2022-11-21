@@ -1,4 +1,3 @@
-package DSA;
 
 import java.util.ArrayList;
 
@@ -18,7 +17,7 @@ public class closestString {
     }
 
     static int shortestDistance(ArrayList<String> s, String word1, String word2) {
-        
+
         // code here
 
         int index1 = s.lastIndexOf(word1);

@@ -1,4 +1,3 @@
-package DSA;
 
 import java.util.Arrays;
 
@@ -11,7 +10,7 @@ public class plusOne {
     }
 
     public static int[] plusOnefunc(int[] digits) {
-        
+
         // code here
 
         int carry = 1;

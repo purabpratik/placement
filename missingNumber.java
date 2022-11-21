@@ -1,4 +1,3 @@
-package DSA;
 
 public class missingNumber {
     public static void main(String[] args) {
@@ -8,9 +7,9 @@ public class missingNumber {
     }
 
     static int miss(int nums[]) {
-        
+
         // code here
-        
+
         int xor = 0, i;
         for (i = 0; i < nums.length; i++) {
             xor = xor ^ i ^ nums[i];

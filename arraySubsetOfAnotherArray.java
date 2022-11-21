@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class arraySubsetOfAnotherArray {
     public static void main(String[] args) {
 
-        int a1[] = { 1, 2, 3, 4,  6 };
+        int a1[] = { 1, 2, 3, 4, 6, 5 };
         int a2[] = { 1, 2, 4 };
 
         System.out.println(isSubset(a1, a2));
